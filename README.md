@@ -143,12 +143,28 @@ Akansha Gore
 Computer Engineering Student | Aspiring Software Engineer
 
 ## 📸 Project Screenshots
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f95ec6f5-4a00-4810-909b-0746043a7b6f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d44638ba-59b0-4210-8a49-a9f9c1742113" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ea3e10a-e000-4ae4-8f3b-820e9363f84d" />
+1) Listing Page
+   <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7de82344-6731-4872-9175-a2e58ca7e8f9" />
 
+2) Specific Listing information
+    <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c8877ed4-ae8d-405d-8bd7-4aa040dcfb36" />
 
+3) Rating And Review
+    <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a9a764ec-9d7e-46ea-a714-a9722bb27779" />
 
+4) Create New Listing Page
+    <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/8ebd49d6-d5fa-42b7-86cf-d104d4c8d537" />
+
+5) Edit Listing Page
+    <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e4c46c69-ecdd-429d-906c-7cfcb4e29530" />
+
+6) Signup Page
+    <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/7247cdf0-ecee-4b0f-84cb-23f153d6a34a" />
+
+7) Login Page
+    <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dbf02093-147b-482b-90d0-4c7f680560b8" />
+   
+ 
 ---
 
 ⭐ This project was developed as a practical full-stack web development project to gain hands-on experience with modern web technologies and real-world application development.
